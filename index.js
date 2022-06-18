@@ -1,6 +1,6 @@
 // Your contract address
 
-const mintAddress = "0x9ac94bbfc24b7ebaf3ecc749f04edc54aec09092"
+const mintAddress = "0x98b509ab4d6293726c8d5fc98b54834292f1b826"
 
 // Your ABI
 
